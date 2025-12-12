@@ -6,4 +6,4 @@ Bienvenue dans ce petit TP Git.
 
 Vous modifierez plusieurs fichiers simples via différents tickets.
 
-
+Ajout de cette ligne pour création d'un conflit !
