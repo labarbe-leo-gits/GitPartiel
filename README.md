@@ -1,6 +1,6 @@
 # Projet TP Git
 
-**Nom du projet : Projet Git - Groupe 1 - 67**
+**Nom du projet : Projet GitHZAHAHAHAHAHA - Groupe 1**
 
 Bienvenue dans ce petit TP Git.
 
